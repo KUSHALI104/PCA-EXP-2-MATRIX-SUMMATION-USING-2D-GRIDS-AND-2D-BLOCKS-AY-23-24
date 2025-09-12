@@ -230,6 +230,7 @@ return (0);
 ```
 
 ## OUTPUT:
+<img width="953" height="202" alt="image" src="https://github.com/user-attachments/assets/300f1b51-a305-4e9a-b9ce-1710f8e25da5" />
 
 
 ## RESULT:
